@@ -15,9 +15,9 @@
 185.199.110.153 documentcloud.github.com
 185.199.111.153 events-feed.github.com
 140.82.114.4    gist.github.com
-52.74.223.119   github.com
+140.82.113.3    github.com
 185.199.109.154 github.githubassets.com
-75.126.33.156   github.global.ssl.fastly.net
+199.232.69.194  github.global.ssl.fastly.net
 185.199.108.153 github.io
 151.101.108.133 github.map.fastly.net
 185.199.109.153 githubstatus.com
@@ -42,6 +42,7 @@
 52.119.210.50   ap-southeast-2.console.aws.amazon.com
 13.224.155.72   aws.amazon.com
 54.239.31.91    console.aws.amazon.com
+13.224.163.129  da2uwvc3too2a.cloudfront.net
 13.224.155.72   dr49lng3n1n2s.cloudfront.net
 54.239.54.114   eu-central-1.console.aws.amazon.com
 54.239.38.125   eu-west-1.console.aws.amazon.com
@@ -64,3 +65,9 @@
 54.240.254.239	us-west-2.console.aws.amazon.com
 
 # Amazon AWS End
+
+# Minecraft Begin
+
+13.224.163.129 launcher.mojang.com
+
+# Minecraft End
