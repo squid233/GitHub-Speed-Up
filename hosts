@@ -1,20 +1,66 @@
 # Copyright (c) 2020 squid233
 # GitHub Speed Up Begin
 
+185.199.110.153 assets-cdn.github.com
+151.101.76.133  avatars.githubusercontent.com
 151.101.108.133 avatars0.githubusercontent.com
 151.101.108.133 avatars1.githubusercontent.com
 151.101.76.133  avatars2.githubusercontent.com
 151.101.108.133 avatars3.githubusercontent.com
+151.101.76.133  avatars7.githubusercontent.com
 151.101.76.133  camo.githubusercontent.com
+151.101.108.133 cloud.githubusercontent.com
 34.196.246.152  collector.githubapp.com
+185.199.111.154 docs.github.com
+185.199.110.153 documentcloud.github.com
 185.199.111.153 events-feed.github.com
+203.98.7.65     gist.github.com
 52.74.223.119   github.com
 185.199.109.154 github.githubassets.com
 75.126.33.156   github.global.ssl.fastly.net
+185.199.108.153 github.io
+151.101.108.133 github.map.fastly.net
+185.199.109.153 githubstatus.com
 151.101.108.133 marketplace-images.githubusercontent.com
 151.101.108.133 marketplace-screenshots.githubusercontent.com
+54.251.140.56   nodeload.github.com
+151.101.108.133 raw.github.com
 151.101.108.133 raw.githubusercontent.com
 151.101.108.133 repository-images.githubusercontent.com
+185.199.109.153 services.github.com
 185.199.111.153 spotlights-feed.github.com
+140.82.114.18   status.github.com
+140.82.112.18   training.github.com
+151.101.108.133 user-images.githubusercontent.com
 
 # GitHub Speed Up End
+
+# Amazon AWS Begin
+
+54.239.96.90    ap-northeast-1.console.aws.amazon.com
+54.240.226.19   ap-southeast-1.console.aws.amazon.com
+52.119.210.50   ap-southeast-2.console.aws.amazon.com
+13.224.155.72   aws.amazon.com
+54.239.31.91    console.aws.amazon.com
+13.224.155.72   dr49lng3n1n2s.cloudfront.net
+54.239.54.114   eu-central-1.console.aws.amazon.com
+54.239.38.125   eu-west-1.console.aws.amazon.com
+52.216.186.171	github-cloud.s3.amazonaws.com
+54.216.170.27	github-com.s3.amazonaws.com
+52.217.82.28	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.228.168	github-production-user-asset-6210df.s3.amazonaws.com
+52.216.106.148  s3.amazonaws.com
+69.171.233.24   s3-ap-northeast-1.amazonaws.com
+88.191.249.182  s3-ap-southeast-1.amazonaws.com
+199.59.149.244  s3-ap-southeast-2.amazonaws.com
+54.239.31.128   s3-console-us-standard.console.aws.amazon.com
+177.72.245.139  sa-east-1.console.aws.amazon.com
+69.171.234.29   s3-eu-central-1.amazonaws.com
+52.218.41.3     s3-eu-west-1.amazonaws.com
+52.95.163.70    s3-sa-east-1.amazonaws.com
+52.219.120.0	s3-us-west-1.amazonaws.com
+52.218.241.232	s3-us-west-2.amazonaws.com
+176.32.114.59	us-west-1.console.aws.amazon.com
+54.240.254.239	us-west-2.console.aws.amazon.com
+
+# Amazon AWS End
