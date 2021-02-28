@@ -1,4 +1,4 @@
 # GitHub-Speed-Up
 Speed up GitHub.
 
-Last update: 2020/8/19
+Last update: 2021/2/28
