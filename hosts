@@ -1,21 +1,21 @@
-# Copyright (c) 2020 squid233
-# GitHub Speed Up Begin
+# Copyleft (ɔ) 2020-2021
+# GitHub Begin
 
-185.199.110.153 assets-cdn.github.com
-151.101.76.133  avatars.githubusercontent.com
-151.101.108.133 avatars0.githubusercontent.com
-151.101.108.133 avatars1.githubusercontent.com
-151.101.76.133  avatars2.githubusercontent.com
-151.101.108.133 avatars3.githubusercontent.com
-151.101.76.133  avatars7.githubusercontent.com
-151.101.76.133  camo.githubusercontent.com
+185.199.108.153 assets-cdn.github.com
+185.199.108.133 avatars.githubusercontent.com
+185.199.108.133 avatars0.githubusercontent.com
+185.199.108.133 avatars1.githubusercontent.com
+185.199.108.133 avatars2.githubusercontent.com
+185.199.108.133 avatars3.githubusercontent.com
+185.199.108.133 avatars7.githubusercontent.com
+185.199.108.133 camo.githubusercontent.com
 151.101.108.133 cloud.githubusercontent.com
 34.196.246.152  collector.githubapp.com
 185.199.111.154 docs.github.com
 185.199.110.153 documentcloud.github.com
 185.199.111.153 events-feed.github.com
 140.82.114.4    gist.github.com
-140.82.113.3    github.com
+140.82.112.4    github.com
 185.199.109.154 github.githubassets.com
 199.232.69.194  github.global.ssl.fastly.net
 185.199.108.153 github.io
@@ -33,7 +33,7 @@
 140.82.112.18   training.github.com
 151.101.108.133 user-images.githubusercontent.com
 
-# GitHub Speed Up End
+# GitHub End
 
 # Amazon AWS Begin
 
@@ -65,18 +65,3 @@
 54.240.254.239	us-west-2.console.aws.amazon.com
 
 # Amazon AWS End
-
-# Minecraft Begin
-
-13.224.163.129 launcher.mojang.com
-
-# Minecraft End
-
-# Microsoft Begin
-23.57.66.17     img-prod-cms-rt-microsoft-com.akamaized.net
-223.119.129.179 mem.gfx.ms
-27.148.137.234  visualstudio.microsoft.com
-13.107.246.10   wcpstatic.microsoft.com
-111.221.29.254  web.vortex.data.microsoft.com
-222.138.3.87    www.microsoft.com
-# Microsoft End
