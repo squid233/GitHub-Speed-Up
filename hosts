@@ -1,21 +1,25 @@
-# Copyleft (ɔ) 2020-2021
 # GitHub Begin
-
 185.199.108.153 assets-cdn.github.com
 185.199.108.133 avatars.githubusercontent.com
 185.199.108.133 avatars0.githubusercontent.com
 185.199.108.133 avatars1.githubusercontent.com
 185.199.108.133 avatars2.githubusercontent.com
 185.199.108.133 avatars3.githubusercontent.com
+185.199.108.133 avatars4.githubusercontent.com
+185.199.108.133 avatars5.githubusercontent.com
+185.199.108.133 avatars6.githubusercontent.com
 185.199.108.133 avatars7.githubusercontent.com
+185.199.108.133 avatars8.githubusercontent.com
 185.199.108.133 camo.githubusercontent.com
 151.101.108.133 cloud.githubusercontent.com
 34.196.246.152  collector.githubapp.com
+185.199.108.133 desktop.githubusercontent.com
 185.199.111.154 docs.github.com
 185.199.110.153 documentcloud.github.com
 185.199.111.153 events-feed.github.com
 140.82.114.4    gist.github.com
-140.82.113.4    github.com
+185.199.108.133 gist.githubusercontent.com
+13.229.188.59   github.com
 185.199.109.154 github.githubassets.com
 199.232.69.194  github.global.ssl.fastly.net
 185.199.108.153 github.io
@@ -32,11 +36,10 @@
 140.82.114.18   status.github.com
 140.82.112.18   training.github.com
 151.101.108.133 user-images.githubusercontent.com
-
+13.229.188.59   www.github.com
 # GitHub End
 
 # Amazon AWS Begin
-
 54.239.96.90    ap-northeast-1.console.aws.amazon.com
 54.240.226.19   ap-southeast-1.console.aws.amazon.com
 52.119.210.50   ap-southeast-2.console.aws.amazon.com
@@ -63,5 +66,4 @@
 52.218.241.232	s3-us-west-2.amazonaws.com
 176.32.114.59	us-west-1.console.aws.amazon.com
 54.240.254.239	us-west-2.console.aws.amazon.com
-
 # Amazon AWS End
